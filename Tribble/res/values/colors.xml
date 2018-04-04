@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_green">#ff00c864</color>
+    <color name="text_green">#ffaaff00</color>
+    <color name="button_yellow_1">#fffffc60</color>
+    <color name="button_yellow_2">#ff887702</color>
+    <color name="button_red_1">#fffc1303</color>
+    <color name="button_red_2">#ff860a00</color>
+    <color name="button_blue_1">#ff319efc</color>
+    <color name="button_blue_2">#ff184e86</color>
+    <color name="button_green_1">#ff87af04</color>
+    <color name="button_green_2">#ff005511</color>
+    
+</resources>

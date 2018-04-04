@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Игра про трибблов!</string>
+    <string name="start_game">Начать игру</string>
+    <string name="difficulty_level">Выберите уровень сложности</string>
+    <string name="very_simple">Простейший</string>
+    <string name="simple">Простой</string>
+    <string name="hardcore">Сложный</string>
+    <string name="you_dead">Ваш триббл погиб!</string>
+    <string name="action_settings">Настройки</string>
+    <string name="title_description">Описание</string>
+    <string name="records">Рекорды</string>
+    <string name="exit">Выйти</string>
+    <string name="back">Назад</string>
+    <string name="description">
+        \nВы управляете трибблом, ваша задача &#8212; съесть как можно больше еды, 
+        которая появляется на поле. Со временем триббл будет размножаться, у вас
+        появятся конкуренты, и еды будет не хватать, поэтому кушайте, иначе 
+        ваше существо умрёт от голода.
+        \nУправление: коснитесь левой части экрана, чтобы триббл повернул против 
+        часовой стрелки; правой части &#8212; по часовой.
+        \nИгра основана на вселенной &#171;Звёздный путь&#187;, созданной Джином Родденберри.
+        \nСоздатель трибблов: Дэвид Джерролд\n\n
+        Создатель: Василий Дзюбенко\n
+        Автор идеи: Вадим Литвиненко\n
+        Редактор: Иван Рогожин
+        </string>
+    <string name="play_music">Воспроизводить музыку</string>
+    <string name="your_name">Введите ваше имя</string>
+    <string name="cancel">Отмена</string>
+    <string name="unknown">Неизвестный</string>
+
+</resources>

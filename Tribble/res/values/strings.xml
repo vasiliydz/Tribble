@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tribbles game!</string>
+    <string name="start_game">Start game</string>
+    <string name="difficulty_level">Choose the level of difficulty</string>
+    <string name="very_simple">Very Simple</string>
+    <string name="simple">Simple</string>
+    <string name="hardcore">Hard</string>
+    <string name="you_dead">Your tribble is dead!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_description">Description</string>
+    <string name="records">Records</string>
+    <string name="exit">Quit</string>
+    <string name="back">Back</string>
+    <string name="description">
+        You are controlling the tribble, your task is to eat as much food
+        that appears on field as you can. Getting bigger the tribble\'s going
+        to reproduct itself so you\'re gonna get rivals, and there won\'t be enough
+        food for all. You must eat it and prevent your hungry death.
+        \nControls: touch a left part of the screen to rotate tribble\'s moving
+        counterclockwise and right part to clockwise.
+        \nThe game is based upon a Star Trek created by Gene Roddenberry.
+        \nTribbles created by David Gerrold\n\n
+        Created by: Vasiliy Dzubenko\n
+        Concept by: Vadim Litvinenko\n
+        Edited by: Ivan Rogozhin
+        </string>
+    <string name="play_music">Play music</string>
+    <string name="your_name">Enter your name</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="unknown">Unknown</string>
+
+</resources>
